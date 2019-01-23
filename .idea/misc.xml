@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mainExchange/pom.xml" />
+        <option value="$PROJECT_DIR$/limitSellOrderFacadePack/pom.xml" />
+        <option value="$PROJECT_DIR$/sellOrderFacadePack/pom.xml" />
+        <option value="$PROJECT_DIR$/exchangeControllerPack/pom.xml" />
+        <option value="$PROJECT_DIR$/exchangeAppController/pom.xml" />
+        <option value="$PROJECT_DIR$/configurations/pom.xml" />
+        <option value="$PROJECT_DIR$/sellOrderPack/pom.xml" />
+        <option value="$PROJECT_DIR$/DefaultSellOrderPack/pom.xml" />
+        <option value="$PROJECT_DIR$/controlerOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/sellWithdrawalService/pom.xml" />
+        <option value="$PROJECT_DIR$/controllerOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/sellOrderServicePack/pom.xml" />
+        <option value="$PROJECT_DIR$/marginSellOrderServicePack/pom.xml" />
+        <option value="$PROJECT_DIR$/sellOrderRepositoryAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/sellOrderRepositoryFile/pom.xml" />
+        <option value="$PROJECT_DIR$/cryptoSellWithdrawService/pom.xml" />
+        <option value="$PROJECT_DIR$/fiatSellWithdrawService/pom.xml" />
+        <option value="$PROJECT_DIR$/fiatWithdrawal/pom.xml" />
+        <option value="$PROJECT_DIR$/withdrawalPack/pom.xml" />
+        <option value="$PROJECT_DIR$/exchangeIntegration/pom.xml" />
+        <option value="$PROJECT_DIR$/krakenExchangeAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/premiumSellOrderPack/pom.xml" />
+        <option value="$PROJECT_DIR$/cyptoWithdrawal/pom.xml" />
+        <option value="$PROJECT_DIR$/marketSellOrderFacadePack/pom.xml" />
+        <option value="$PROJECT_DIR$/normalSellOrderServicePack/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
